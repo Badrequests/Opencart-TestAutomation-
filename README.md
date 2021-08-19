@@ -1,4 +1,4 @@
-# Opencart-TestAutomation
+# Opencart-Automation
 
 Testing a demo website 
 
